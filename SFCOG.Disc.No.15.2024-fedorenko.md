@@ -7,6 +7,36 @@ https://linktr.ee/DylanRosario
 
 ---
 
+The paper titled "Language is primarily a tool for communication rather than thought" by Evelina Fedorenko, Steven T. Piantadosi, and Edward A. F. Gibson, argues against the widely held belief that language is essential for thought. Instead, the authors posit that language primarily serves as a tool for communication. Below is a summary of the key points from the paper:
+
+### Introduction
+- **Debate on Language's Function:** The paper discusses the long-standing debate on whether language serves primarily for communication or for thinking. While some theories propose that language is central to thought, others suggest it is more about sharing knowledge and feelings.
+- **Evidence from Neuroscience:** Recent advancements in neuroscience provide insights into this debate, showing that language is not necessary for thought but is optimized for communication.
+
+### The Language Network in the Brain
+- **Abstract Representations:** The brain's language network is characterized by abstract representations that support both language comprehension and production, irrespective of the modality (spoken, written, or signed).
+- **Syntactic and Semantic Sensitivity:** The language network is sensitive to word meanings and syntactic structures, making it a clear target for evaluating the relationship between language and thought.
+
+### Language and Thought Dissociation
+- **Independence of Language and Thought:** The paper presents evidence that thought does not require language. Individuals with severe linguistic impairments, such as aphasia, can still engage in various forms of reasoning, problem-solving, and social cognition.
+- **Neuroimaging Evidence:** Functional MRI studies show that the language network is largely inactive during tasks that require thinking and reasoning, indicating that these cognitive processes do not rely on language.
+
+### Communication as the Primary Function of Language
+- **Efficient Communication Code:** The paper argues that language has evolved to be an efficient communication system, optimized for ease of production, comprehension, and robustness to noise.
+- **Cross-Linguistic Features:** Features such as phonetic dispersion, word frequency, and syntactic dependency lengths are explained as adaptations for efficient communication rather than for facilitating thought.
+
+### Developmental and Evolutionary Perspectives
+- **Language Development and Cognitive Function:** The dissociation between language and thought is observed even in young children, suggesting that language and reasoning develop in parallel rather than one depending on the other.
+- **Animal Cognition:** The paper notes that many non-human animals exhibit complex cognitive abilities without language, further questioning the necessity of language for sophisticated thought.
+
+### Conclusion
+- **Language Reflects, Not Shapes, Thought:** The paper concludes that language reflects the sophistication of human cognition but does not give rise to it. Instead, language primarily functions as a tool for communication, enabling the transmission of cultural knowledge across generations.
+- **Implications for Human Evolution:** The evolution of language likely played a significant role in the success of human civilizations by facilitating knowledge transmission rather than by transforming cognitive abilities.
+
+The paper provides a comprehensive review of evidence from neuroscience, developmental psychology, and comparative cognition, challenging the idea that language is a prerequisite for thought and emphasizing its role as a communication tool.
+
+---
+
 Here I create a syntactic schema model based on the concepts discussed in the paper, I present a formal framework that reflects how language structures are optimized for communication, particularly focusing on the principles of syntactic dependency, word order, and efficiency in communication. The following syntactic schema model includes supporting equations and explanations:
 
 ### Syntactic Schema Model
