@@ -153,7 +153,7 @@ This syntactic schema model integrates key principles from the paper, emphasizin
 
 ### Language Protocols \& Pseudocode
 
-Based on the concepts discussed in the paper, I expsnd the formulation to provide a language protocols based on language structures and communication strategies to mechanistically optimize efficiency, clarity, and cognitive load management.
+Based on the concepts discussed in the paper, I expand the formulation to provide a language protocols based on language structures and communication strategies to mechanistically optimize efficiency, clarity, and cognitive load management.
 
 The protocols I focus on Dependency Length Minimization (DLM), Word Order Efficiency (WOE), Information Density (ID), and Ambiguity Resolution (AR). Each protocol will be presented with a step-by-step algorithm in pseudocode and supported by relevant equations.
 
