@@ -333,16 +333,19 @@ The `resolveAmbiguity` function selects the most appropriate sense of an ambiguo
 $$
 \text{DLM}(S) = \sum_{i=1}^{n} \text{len}(w_i, w_j)
 $$
+
 2. **Word Order Efficiency (WOE):**
 
 $$
 \text{WOE} = \arg \min_{\text{order}} \sum_{i=1}^{n} \text{P}(w_i) \times \text{I}(w_i | \text{context})
 $$
+
 3. **Information Density (ID):**
 
 $$
 \text{ID}(S) = \frac{1}{n} \sum_{i=1}^{n} \frac{\text{I}(w_i)}{\text{len}(S)}
 $$
+
 4. **Ambiguity Resolution (AR):**
 
 $$
